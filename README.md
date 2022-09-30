@@ -3,10 +3,10 @@
 ## Redux
 - 22.09.30 Vanilla Redux
 
-## Next.Js
+## React Native
 -
 
-## React Native
+## Next.Js
 -
 
 ## Python
